@@ -4,6 +4,3 @@ result = True or False
 result = True
 
 print(src == result)
-
-
-
